@@ -268,7 +268,7 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ---
 
-**Auteur** : Assistant IA  
+**Auteur** : Jean Yves (LeZelote)  
 **Version** : 1.0  
 **Date** : Juillet 2025  
 **Niveau** : Débutant  
