@@ -1,0 +1,28 @@
+# Requirements pour le Vérificateur d'Intégrité de Fichiers
+# ========================================================
+
+# Modules Python standard utilisés (inclus avec Python):
+# - os : manipulation du système de fichiers
+# - hashlib : calculs d'empreintes MD5/SHA256
+# - json : gestion de la base de données
+# - time : gestion du temps
+# - pathlib : manipulation des chemins
+# - datetime : gestion des dates
+# - argparse : interface en ligne de commande
+# - sys : fonctions système
+
+# Ce projet n'utilise que des modules de la bibliothèque standard Python,
+# aucune dépendance externe n'est requise.
+
+# Version Python recommandée: 3.8+
+
+# Pour installer les dépendances (aucune dans ce cas):
+# pip install -r requirements.txt
+
+# Note: Si vous souhaitez ajouter des fonctionnalités avancées,
+# voici quelques suggestions de bibliothèques:
+
+# watchdog>=2.1.0        # Pour la surveillance en temps réel des fichiers
+# colorama>=0.4.0        # Pour colorer la sortie console
+# rich>=13.0.0           # Pour une interface console avancée
+# schedule>=1.2.0        # Pour programmer des vérifications automatiques
